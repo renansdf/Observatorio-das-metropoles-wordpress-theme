@@ -2,7 +2,7 @@
 ## Este é um tema de wordpress desenvolvido para o site do Observatório das Metrópoles. Você pode ver esse tema ao vivo em observatoriodasmetropoles.net.br
 
 - Este tema é escrito em PHP com funções do framework nativo do wordpress.
-- Este tema é baseado no (Salient)[https://themeforest.net/item/salient-responsive-multipurpose-theme/4363266]
+- Este tema é baseado no [Salient](https://themeforest.net/item/salient-responsive-multipurpose-theme/4363266)
 
 ## Licença
 Esse projeto está de acordo com a licença de distribuição open source do MIT:
